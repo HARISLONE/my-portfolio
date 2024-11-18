@@ -19,3 +19,10 @@ To run this project locally, you need the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/HARISLONE/my-portfolio.git
+
+
+### 5. Add and Commit Changes
+1. In your terminal, **add the changes**:
+   ```bash
+   git add README.md
+
